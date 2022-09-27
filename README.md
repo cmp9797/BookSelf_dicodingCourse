@@ -1,2 +1,2 @@
 # dicoding_excercise
-Hasil latihan course dari dicoding
+Hasil latihan course javascript dari dicoding
